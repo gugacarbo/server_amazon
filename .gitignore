@@ -23,11 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-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
-echo "# server_amazon" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/gugacarbo/server_amazon.git
-git push -u origin main
